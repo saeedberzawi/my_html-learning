@@ -1,0 +1,35 @@
+ul {
+	color: blueviolet;
+	line-height: 30px;
+}
+.name01 {
+	color: hsl(323, 61%, 42%);
+}
+#name02 {
+	color: blue;
+}
+div li {
+	color: orange;
+}
+input[type="text"] {
+	background: ;
+}
+.s1s {
+	height: 200px;
+	width: 200px;
+	background: green;
+	border: black 10px solid;
+}
+
+h1 {
+	color: gold;
+	font-family: fantasy;
+	height: 200px;
+	width: 200px;
+	font-size: 100px;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+	display: flex;
+	justify-content: center;
+}
